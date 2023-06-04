@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmarK21gold
-- 👀 I’m interested in machine learning, deep learning, and python
-- 🌱 I’m currently learning TensorFlow, Python, and Object detection
-- 💞️ I’m looking to collaborate on begginer python learning
+- 👀 I’m interested in Networking, Cybersecurity, and Cloud computing/engineering.
+- 🌱 I’m currently learning the CCNA, compTIA Security+ and certified in the AZ-900
+- 💞️ I’m looking to collaborate and begin internship or entry level jobs
 - 📫 How to reach me: omarkkhan21@gmail.com
 
 <!---
